@@ -6,7 +6,8 @@
 package de.brandes.springbootsecurity;
 /**
  *
- * @author brandes
+ * @author harald.gleisner 
+ *  aus Memmingerberg
  */
 
 import org.springframework.boot.SpringApplication;
