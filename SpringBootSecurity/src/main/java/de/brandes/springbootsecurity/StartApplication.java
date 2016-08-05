@@ -7,6 +7,7 @@ package de.brandes.springbootsecurity;
 /**
  *
  * @author harald.gleisner 
+ *  aus Memmingerberg
  */
 
 import org.springframework.boot.SpringApplication;
