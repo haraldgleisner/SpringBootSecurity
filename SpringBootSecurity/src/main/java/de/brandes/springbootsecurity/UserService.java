@@ -6,7 +6,7 @@
 package de.brandes.springbootsecurity;
 /**
  * Rest-Endpoint
- * @author brandes
+ * @author harald.gleisner 
  */
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
