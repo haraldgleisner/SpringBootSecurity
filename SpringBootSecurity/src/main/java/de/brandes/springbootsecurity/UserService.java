@@ -5,7 +5,7 @@
  */
 package de.brandes.springbootsecurity;
 /**
- *
+ * Rest-Endpoint
  * @author brandes
  */
 import org.springframework.web.bind.annotation.PathVariable;
