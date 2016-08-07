@@ -12,7 +12,7 @@ import org.springframework.security.config.annotation.web.servlet.configuration.
 /**
  * Security configuration.
  *
- * @author P.J. Meisch (pj.meisch@sothawo.com).
+ * @author Udo Brandes
  */
 @Configuration
 @EnableWebMvcSecurity
