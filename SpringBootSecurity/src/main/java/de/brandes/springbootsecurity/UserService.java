@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Sample service.
  *
- * @author P.J. Meisch (pj.meisch@sothawo.com).
+ * @author Udo Brandes
  */
 @RestController
 @RequestMapping("/service")
