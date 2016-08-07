@@ -8,6 +8,7 @@ package de.brandes.springbootsecurity;
  *
  * @author harald.gleisner 
  *  aus Memmingerberg
+ *  Bayern
  */
 
 import org.springframework.boot.SpringApplication;

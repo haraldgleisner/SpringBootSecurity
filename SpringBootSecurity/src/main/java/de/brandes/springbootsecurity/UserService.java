@@ -8,6 +8,7 @@ package de.brandes.springbootsecurity;
  * Rest-Endpoint
  * @author harald.gleisner 
  * aus Memmingerberg
+ * Bayern
  */
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -16,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Sample service.
  *
- * @author P.J. Meisch (pj.meisch@sothawo.com).
+ * @author Udo Brandes
  */
 @RestController
 @RequestMapping("/service")
