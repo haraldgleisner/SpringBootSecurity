@@ -12,7 +12,12 @@ import org.springframework.security.config.annotation.web.servlet.configuration.
 /**
  * Security configuration.
  *
- * @author Udo Brandes
+ * @author Udo Brandes2
+ * Das ist ein Kommentar von Udo Brandes2
+ * Das ist ein Kommentar von Udo Brandes2
+ * Das ist ein Kommentar von Udo Brandes2
+ * Das ist ein Kommentar von Udo Brandes2
+ * Das ist ein Kommentar von Udo Brandes2
  */
 @Configuration
 @EnableWebMvcSecurity
