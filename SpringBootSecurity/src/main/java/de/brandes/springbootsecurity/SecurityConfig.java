@@ -18,6 +18,12 @@ import org.springframework.security.config.annotation.web.servlet.configuration.
  * Das ist ein Kommentar von Udo Brandes2
  * Das ist ein Kommentar von Udo Brandes2
  * Das ist ein Kommentar von Udo Brandes2
+ * @author Udo Brandes1
+ * Das ist ein Kommentar von Udo Brandes1
+ * Das ist ein Kommentar von Udo Brandes1
+ * Das ist ein Kommentar von Udo Brandes1
+ * Das ist ein Kommentar von Udo Brandes1
+ * Das ist ein Kommentar von Udo Brandes1
  */
 @Configuration
 @EnableWebMvcSecurity
